@@ -3,4 +3,5 @@ requests
 pillow
 beautifulsoup4
 selenium
-
+fastapi
+uvicorn
